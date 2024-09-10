@@ -1,0 +1,22 @@
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar diretório node_modules (para projetos Node.js)
+node_modules/
+
+# Ignorar diretório de dependências em Python
+venv/
+
+# Ignorar arquivos de compilação
+*.class
+*.o
+*.out
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de ambiente
+.env
+.sfdx
+.sfdx\tools\250\apex.db
