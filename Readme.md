@@ -3,7 +3,7 @@
 ## Comando no bash
 
 > - excute  o comando  para iniciar  o repositorio localmente ''git init''
-    ![Imagem Git Init](./image\GIT\GIT_iNIT.png)
+    ![Imagem Git Init](./image/GIT/GIT_iNIT.png)
 > - git config  --global  user.name "seu Nome"
 > - git config  --global  user.email "seu email"
 > - git status
