@@ -3,16 +3,16 @@
 ## Comando no bash
 
 > - excute  o comando  para iniciar  o repositorio localmente ''git init''
-    ![Imagem Git Init](image\GIT\GIT_iNIT.png)
+    ![Imagem Git Init](./image\GIT\GIT_iNIT.png)
 > - git config  --global  user.name "seu Nome"
 > - git config  --global  user.email "seu email"
 > - git status
-    ![Imagem do Git Status](image\GIT\GITSTATUS.png)
+    ![Imagem do Git Status](./image\GIT\GITSTATUS.png)
 > - touch .gitignore
 > - git commit -m "inicializando o repositorio"
-    ![Imagem Git Commit](image\GIT\GIT_COMMIT.png)
+    ![Imagem Git Commit](./image\GIT\GIT_COMMIT.png)
 > - git add ./image
-    ![git add ./image](image/GIT/GIT_ADD_IMAGEM.png.png)
+    ![git add ./image](./image/GIT/GIT_ADD_IMAGEM.png.png)
 
 ## :writing_hand: Linguagens utilizadas
 
