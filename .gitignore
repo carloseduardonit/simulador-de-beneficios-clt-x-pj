@@ -11,6 +11,9 @@ venv/
 *.class
 *.o
 *.out
+package-lock.json
+package.json
+.vscode
 
 # Ignorar arquivos do sistema operacional
 .DS_Store
