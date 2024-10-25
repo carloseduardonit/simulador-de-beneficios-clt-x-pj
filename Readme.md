@@ -15,8 +15,9 @@
     ![git add ./image](./image/GIT/GIT_ADD_IMAGEM.png)
 
 
-## NODE
-npm install --save-dev @cucumber/cucumber
+## Comando no NODE
+
+> - npm install --save-dev @cucumber/cucumber
 
 ## :writing_hand: Linguagens utilizadas
 
@@ -41,8 +42,13 @@ npm install --save-dev @cucumber/cucumber
 
 ## Material de Suporte
 
+- [Deploy na sexta 39 clt ou pj quando vale pena trocar giulia bordignon](https://www.linkedin.com/pulse/deploy-na-sexta-39-clt-ou-pj-quando-vale-pena-trocar-giulia-bordignon-sce6f/)
 - [Iconografia](https://github.com/ikatyang/emoji-cheat-sheet/tree/master?tab=readme-ov-file#activities)
 - [Badges](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 - [Cards](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 - [Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Trabalhar com formatação avançadano GitHub](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
+
+---- 
+
+- [] 

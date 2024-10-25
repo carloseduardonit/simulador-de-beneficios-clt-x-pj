@@ -1,6 +1,6 @@
 # Language: pt
 
-Funcionalidade: Cálculo das contribuições para pessoa física
+Funcionalidade: Cálculo das contribuições de INSS para pessoa física
 
     Cenário: Calcular contribuições para uma pessoa física com candidatura CLT
         Dado que o candidato é uma pessoa física
@@ -11,7 +11,7 @@ Funcionalidade: Cálculo das contribuições para pessoa física
             E o valor das contribuições deve ser calculado aplicando <Alíquota> ao Salário bruto
             E o valor final da contribuição deve ser <Final da contribuição>
 
-        Exemplos:
+    Exemplos:
         
         | Salário bruto | Valor Mínimo | Valor Máximo | Alíquota | Final da contribuição |
         | 0,01          | 0,01         | 1.412,00     | 7,5%     | R$ 0,00              |
