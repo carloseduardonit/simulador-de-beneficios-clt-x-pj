@@ -14,7 +14,6 @@
 > - git add ./image
     ![git add ./image](./image/GIT/GIT_ADD_IMAGEM.png)
 
-
 ## Comando no NODE
 
 > - npm install --save-dev @cucumber/cucumber
@@ -51,4 +50,4 @@
 
 ----
 
-- []
+- [ ]
