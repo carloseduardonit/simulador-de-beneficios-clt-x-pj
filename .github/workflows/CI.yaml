@@ -1,9 +1,9 @@
-Nome: CI
+name: CI
 on:
   push:
     branches:
       - master
-job:
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
