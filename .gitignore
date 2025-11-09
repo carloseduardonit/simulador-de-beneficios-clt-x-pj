@@ -12,7 +12,7 @@ venv/
 *.o
 *.out
 package-lock.json
-package.json
+# Ignorar diretório de configuração do VSCode
 .vscode
 
 # Ignorar arquivos do sistema operacional
